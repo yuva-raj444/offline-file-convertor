@@ -1,0 +1,1 @@
+PyQt5\npython-docx\npandas\nopenpyxl\npython-pptx\npdf2image\nPyMuPDF\nPillow

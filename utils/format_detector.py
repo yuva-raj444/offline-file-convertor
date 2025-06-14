@@ -1,0 +1,1 @@
+# Detect file type logic
